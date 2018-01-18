@@ -558,6 +558,13 @@ section h3.section-subheading {
 .team-member p {
   margin-top: 0;
 }
+.skills-item {
+  text-align: center;
+}
+.skills-img {
+  height: 120px;
+  /* width: 100%; */
+}
 aside.clients img {
   margin: 50px auto;
 }
