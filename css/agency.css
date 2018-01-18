@@ -311,6 +311,8 @@ section#projects {
   background-image: url('../img/sunset.png');
   background-attachment: fixed;
   color: rgb(254, 209, 54);
+  background-position: center;
+  background-repeat: no-repeat;
 }
 #portfolio .portfolio-item .portfolio-link {
   display: block;
