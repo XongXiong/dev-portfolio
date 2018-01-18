@@ -313,7 +313,7 @@ section#projects {
   color: rgb(254, 209, 54);
   background-position: center;
   background-repeat: no-repeat;
-  background-position: cover;
+  background-position: 100%;
 }
 #portfolio .portfolio-item .portfolio-link {
   display: block;
